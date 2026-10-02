@@ -93,7 +93,7 @@ const golamMostafaSekh = {
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀Projects
 
 ### 📊 NIFTY 50 F&O Market Analyzer
 
@@ -217,14 +217,6 @@ A full-stack invoice management application for creating, managing, and tracking
 ### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-<br/><br/>
-
-### 📊 Data & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
 <br/><br/>
 
