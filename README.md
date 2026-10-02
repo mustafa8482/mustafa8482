@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Golam%20Mostafa%20Sekh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
@@ -9,7 +8,7 @@
 
 <br/><br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=black)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge\&logo=briefcase\&logoColor=black\&labelColor=black)
 
 <img src="https://komarev.com/ghpvc/?username=Mustafa8482&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -90,7 +89,7 @@ const golamMostafaSekh = {
     "Full Stack Developer roles"
   ]
 };
-````
+```
 
 <br/>
 
@@ -98,8 +97,7 @@ const golamMostafaSekh = {
 
 ### 📊 NIFTY 50 F&O Market Analyzer
 
-A web-based NIFTY 50 Futures & Options market analysis dashboard built with
-Python, FastAPI, JavaScript, and the Upstox API.
+A web-based NIFTY 50 Futures & Options market analysis dashboard built with Python, FastAPI, JavaScript, and the Upstox API.
 
 <div align="center">
 
@@ -107,7 +105,7 @@ Python, FastAPI, JavaScript, and the Upstox API.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Upstox API](https://img.shields.io/badge/Upstox%20API-FF6B00?style=for-the-badge)
-![Charts](https://img.shields.io/badge/TradingView%20Charts-2962FF?style=for-the-badge)
+![TradingView](https://img.shields.io/badge/TradingView%20Charts-2962FF?style=for-the-badge)
 
 </div>
 
@@ -323,4 +321,3 @@ D. Y. Patil University, Ambi, Pune
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-```
