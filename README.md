@@ -49,7 +49,8 @@ const golamMostafaSekh = {
 
   databases: [
     "MongoDB",
-    "MySQL"
+    "MySQL",
+    "SQLite"
   ],
 
   dataAndAnalytics: [
@@ -58,6 +59,14 @@ const golamMostafaSekh = {
     "Microsoft Excel",
     "Data Analysis",
     "Data Visualization"
+  ],
+
+  desktopDevelopment: [
+    "Python",
+    "PySide6",
+    "SQLite",
+    "Matplotlib",
+    "PyInstaller"
   ],
 
   apis: [
@@ -76,6 +85,7 @@ const golamMostafaSekh = {
     "Full Stack Development",
     "Python Development",
     "API Integration",
+    "Desktop Application Development",
     "Data-Driven Applications"
   ],
 
@@ -93,9 +103,9 @@ const golamMostafaSekh = {
 
 <br/>
 
-## 🚀Projects
+# 🚀 Projects
 
-### 📊 NIFTY 50 F&O Market Analyzer
+## 📊 1. NIFTY 50 F&O Market Analyzer
 
 A web-based NIFTY 50 Futures & Options market analysis dashboard built with Python, FastAPI, JavaScript, and the Upstox API.
 
@@ -109,7 +119,7 @@ A web-based NIFTY 50 Futures & Options market analysis dashboard built with Pyth
 
 </div>
 
-#### Key Features
+### ✨ Key Features
 
 * 📈 Live/near-live NIFTY 50 market data
 * 🕯️ Interactive candlestick charts
@@ -127,7 +137,7 @@ A web-based NIFTY 50 Futures & Options market analysis dashboard built with Pyth
 * 🔍 Chart zoom preservation during refresh
 * 🇮🇳 IST-based chart and crosshair timestamps
 
-#### Technology
+### 🛠️ Technology
 
 | Layer             | Technology                     |
 | ----------------- | ------------------------------ |
@@ -142,7 +152,7 @@ A web-based NIFTY 50 Futures & Options market analysis dashboard built with Pyth
 
 <div align="center">
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mustafa8482)
+[![Code](https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mustafa8482)
 
 </div>
 
@@ -150,7 +160,7 @@ A web-based NIFTY 50 Futures & Options market analysis dashboard built with Pyth
 
 ---
 
-### 🧾 Invoice Management System
+## 🧾 2. Invoice Management System
 
 A full-stack invoice management application for creating, managing, and tracking invoices, customers, products, and transactions.
 
@@ -163,7 +173,7 @@ A full-stack invoice management application for creating, managing, and tracking
 
 </div>
 
-#### Key Features
+### ✨ Key Features
 
 * 🧾 Invoice creation and management
 * 👥 Customer management
@@ -174,8 +184,9 @@ A full-stack invoice management application for creating, managing, and tracking
 * 🗄️ MySQL database integration
 * 🔐 Authentication
 * 🔗 REST API integration
+* 📱 Responsive interface
 
-#### Technology
+### 🛠️ Technology
 
 | Layer    | Technology             |
 | -------- | ---------------------- |
@@ -188,13 +199,139 @@ A full-stack invoice management application for creating, managing, and tracking
 
 <div align="center">
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mustafa8482/invoice-management-system)
+[![Code](https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mustafa8482/invoice-management-system)
 
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack
+---
+
+## 📊 3. TradeWise — Professional Trading Journal
+
+A professional Windows desktop-based trading journal application built to help traders record their trades, analyze performance, understand trading psychology, evaluate strategies, and identify recurring mistakes.
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=for-the-badge)
+
+</div>
+
+### ✨ Key Features
+
+#### 📈 Trade Management
+
+* Add and record trading activities.
+* Track entry price, exit price, quantity, and charges.
+* Calculate gross and net profit/loss.
+* Maintain detailed trade history.
+* Close and review open trades.
+
+#### 📊 Performance Analytics
+
+* Total trades, winning trades, and losing trades.
+* Win rate and net P&L calculations.
+* Performance visualization.
+* Equity curve tracking.
+* Drawdown analysis.
+* Risk management statistics.
+
+#### 📅 Trading Calendar
+
+* View trading activity by date.
+* Track daily trading performance.
+* Review historical trades.
+
+#### 🧠 Trading Psychology
+
+* Track emotions during trading.
+* Understand emotional trading patterns.
+* Review trading discipline.
+
+#### 🎯 Strategy Analysis
+
+* Evaluate trading strategies.
+* Analyze strategy performance.
+* Identify areas for improvement.
+
+#### ⚠️ Mistake Journal & Analytics
+
+* Record trading mistakes.
+* Track mistake types and emotions.
+* Record financial impact.
+* Identify recurring mistakes.
+* Analyze mistakes through visual insights.
+
+#### 📉 Risk Management
+
+* Monitor risk-related statistics.
+* Analyze winning and losing streaks.
+* Track drawdown.
+* Review risk and reward performance.
+
+#### 📄 Reports & Export
+
+* Generate PDF reports.
+* Export trading records to Excel.
+* Review and maintain trading reports.
+
+#### ⚙️ Settings & Backup
+
+* View database information.
+* Create database backups.
+* Restore database backups.
+* Validate backup integrity before restoration.
+
+#### 🖥️ Desktop Application
+
+* Professional dark user interface.
+* Windows executable generation using PyInstaller.
+* Offline core functionality.
+
+### 🛠️ Technology
+
+| Layer                | Technology    |
+| -------------------- | ------------- |
+| Programming Language | Python        |
+| Desktop UI           | PySide6       |
+| Database             | SQLite        |
+| Data Visualization   | Matplotlib    |
+| Data Processing      | Pandas, NumPy |
+| PDF Generation       | ReportLab     |
+| Excel Export         | OpenPyXL      |
+| Executable           | PyInstaller   |
+| Version Control      | Git & GitHub  |
+
+### 🎯 Project Goal
+
+TradeWise aims to help traders:
+
+* Maintain structured trading records.
+* Understand their trading performance.
+* Develop better trading discipline.
+* Identify recurring trading mistakes.
+* Evaluate strategies using historical data.
+* Make more informed trading decisions.
+
+> **Note:** TradeWise is a trading journal and analytics application, not a trading signal or guaranteed-profit system.
+
+<div align="center">
+
+[![Code](https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mustafa8482/TradeWise)
+
+</div>
+
+<br/>
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -216,7 +353,16 @@ A full-stack invoice management application for creating, managing, and tracking
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+
+<br/><br/>
+
+### 📊 Data Analysis & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
 <br/><br/>
 
@@ -234,7 +380,9 @@ A full-stack invoice management application for creating, managing, and tracking
 
 <br/>
 
-## 📊 GitHub Stats
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -254,7 +402,9 @@ A full-stack invoice management application for creating, managing, and tracking
 
 <br/>
 
-## 🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -264,7 +414,9 @@ A full-stack invoice management application for creating, managing, and tracking
 
 <br/>
 
-## 📈 Contribution Activity
+---
+
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -274,25 +426,32 @@ A full-stack invoice management application for creating, managing, and tracking
 
 <br/>
 
-## 🎓 Education
+---
+
+# 🎓 Education
 
 **Bachelor of Technology — Computer Engineering**
 
 D. Y. Patil University, Ambi, Pune
 
 **CGPA:** 7.21 / 10
+
 **2022 – 2026**
 
 <br/>
 
-## 📜 Certifications
+---
+
+# 📜 Certifications
 
 * AWS Student Development Program — Cloud Computing
 * Smart India Hackathon Participant
 
 <br/>
 
-## 🤝 Connect With Me
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
